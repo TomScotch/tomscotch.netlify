@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost"
+baseURL = "https://tomscotch.netlify.app/"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo"
 themesDir = "themes/"
